@@ -17,3 +17,4 @@ following resources:
 
 - **/fragments/**
  
+El trabajo realizado por Guillermo Galeano de Paz se centra en las entidades audit y audit record junto con el rol auditor. Documentación del desarrollo en la carpeta docs.
