@@ -1,0 +1,24 @@
+
+student.enrolment.list.label.code=Code
+student.enrolment.list.label.motivation=Motivation
+student.enrolment.list.button.create = Create
+student.enrolment.form.label.code=Code
+student.enrolment.form.label.motivation=Motivation
+student.enrolment.form.label.goals=Goals
+student.enrolment.form.label.workTime=Work time
+student.enrolment.form.label.draftMode=Draft Mode
+student.enrolment.form.label.course= Course name
+student.enrolment.form.label.holderName = Holder Name
+student.enrolment.form.label.creditCardFourLowNibble = CreditCard Four Low Nibbles
+
+
+student.enrolment.form.button.create = Create
+student.enrolment.form.button.update = Update
+student.enrolment.form.button.delete = Delete
+student.enrolment.form.button.payment = Create Payment
+
+
+student.enrolment.form.error.spamTitle= Spam motivation detected
+student.enrolment.form.error.spamTitle2 = Spam goals detected
+student.enrolment.form.error.duplicated =Not support duplicated
+student.enrolment.form.error.workTime = Work Time must be greater than 0

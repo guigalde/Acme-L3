@@ -1,0 +1,24 @@
+
+student.activity.list.label.tittle=Titulo
+student.activity.list.label.workbookName=Cuaderno de Trabajo
+student.activity.list.button.create = Crear
+student.activity.form.label.tittle=Titulo
+student.activity.form.label.abstract$=Resumen
+student.activity.form.label.workbookName=Cuaderno de Trabajo
+student.activity.form.label.atype=Tipo de actividad
+student.activity.form.label.startTime=Momento de inicio
+student.activity.form.label.finishTime=Momento de finalizacion
+student.activity.form.label.link=Link
+student.activity.form.button.create = Crear
+student.activity.form.button.update = Actualizar
+student.activity.form.button.delete = Eliminar
+student.activity.form.button.activities= Actividades
+
+
+student.enrolment.form.error.spamTitle= Spam de titulo detectado
+student.enrolment.form.error.spamTitle2 = Spam del libro de trabajo detectado
+student.enrolment.form.error.spamTitle3 = Spam del resumen detectado
+student.activity.form.error.atype = No puede ser balaced
+student.activity.form.error.startTime = El tiempo de inicio no puede ser hoy o mayor que el de finalizacion 
+student.activity.form.error.finishTime = El tiempo de finalizacion no puede ser hoy o menor al inicio
+student.activity.form.error.outOfRangeLink = Enlace fuera de rango

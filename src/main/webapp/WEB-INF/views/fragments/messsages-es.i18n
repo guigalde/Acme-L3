@@ -1,0 +1,23 @@
+
+# master.sign-in ##############################################################
+
+master.sign-in.label.username = Apodo:
+master.sign-in.label.password = Contraseña:
+master.sign-in.label.remember-me = Recuérdame
+master.sign-in.button.sign-in = Entrar
+master.sign-in.button.return = Volver
+master.sign-in.error.text = Fallo de autentificación 
+	
+# master.panic ################################################################
+
+master.panic.title = Error inesperado
+master.panic.text = \
+	¡Lo sentimos! Se ha producido un error inesperado.  Si impide que pueda \
+	trabajar con nuestro sistema, por favor, póngase en contacto con nosotros \
+	y haremos lo posible por resolverlo cuanto antes.
+	the following information to them.
+master.panic.label.request = Petición:
+master.panic.label.status = Estado:
+master.panic.label.exceptions = Excepciones:
+master.panic.text.consult-log = Por favor, consulte el log para ver más detalles.
+

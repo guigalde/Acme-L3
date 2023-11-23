@@ -1,0 +1,11 @@
+
+student.course.list.label.code=Code
+student.course.list.label.title=Title
+student.course.form.label.code=Code
+student.course.form.label.title=Title
+student.course.form.label.abstract$=Abstract
+student.course.form.label.draftMode= Draft mode
+student.course.form.label.retailPrice=Retail price
+student.course.form.label.furtherInformation=Further information
+student.course.form.label.lecturer=Lecturer
+student.course.form.button.lecture=Lectures

@@ -1,0 +1,11 @@
+
+student.course.list.label.code=Codigo
+student.course.list.label.title=Titulo
+student.course.form.label.code=Codigo
+student.course.form.label.title=Titulo
+student.course.form.label.abstract$=Resumen
+student.course.form.label.draftMode= Modo de edicion
+student.course.form.label.retailPrice=Precio de venta al publico
+student.course.form.label.furtherInformation=Mas informacion
+student.course.form.label.lecturer=Profesor
+student.course.form.button.lecture=Asignaturas

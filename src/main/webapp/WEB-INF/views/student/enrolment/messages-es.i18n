@@ -1,0 +1,23 @@
+student.enrolment.list.label.code=Codigo
+student.enrolment.list.label.motivation=Motivacion
+student.enrolment.list.button.create = Crear
+student.enrolment.form.label.code=Codigo
+student.enrolment.form.label.motivation=Motivacion
+student.enrolment.form.label.goals=Metas
+student.enrolment.form.label.workTime=Tiempo de trabajo
+student.enrolment.form.label.draftMode=Modo de edicion
+student.enrolment.form.label.course=Nombre del curso
+student.enrolment.form.label.holderName = Nombre del portador
+student.enrolment.form.label.creditCardFourLowNibble = Cuatro dijitos inferiores de la tarjeta de credito
+
+
+student.enrolment.form.button.create = Crear
+student.enrolment.form.button.update = Actualizar
+student.enrolment.form.button.delete = Eliminar
+student.enrolment.form.button.payment = Crear pago
+
+
+student.enrolment.form.error.spamTitle= Spam motivation detectado
+student.enrolment.form.error.spamTitle2 = Spam goals detectado 
+student.enrolment.form.error.duplicated =No se permiten duplicados
+student.enrolment.form.error.workTime = Tiempo de trabajo debe ser mañor a 0

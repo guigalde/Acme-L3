@@ -1,0 +1,23 @@
+
+administrator.offer.list.label.heading=Titulo
+administrator.offer.list.label.price=Precio
+administrator.offer.list.button.create = Crear
+administrator.offer.form.label.heading=Titulo
+administrator.offer.form.label.price=Precio
+administrator.offer.form.label.instantiationMoment=Momento Inicial
+administrator.offer.form.label.abstract$=Cuerpo
+administrator.offer.form.label.startDay=Primer Dia
+administrator.offer.form.label.lastDay=Ultimo Dia
+administrator.offer.form.label.link=Link
+administrator.offer.form.button.create = Crear
+administrator.offer.form.button.update = Actualizar
+administrator.offer.form.button.delete = Borrar
+
+
+
+administrator.offer.form.error.outOfRangeLink = Enlace fuera de rango
+administrator.offer.form.error.spam1 = Spam en el titular
+administrator.offer.form.error.spam2 = Spam en el resumen
+administrator.offer.form.error.price = Precio no puede ser negativo
+administrator.offer.form.error.startDay = El dia de inicio debe distanciarse en un dia con el dia de instanciacion 
+administrator.offer.form.error.lastDay = El dia de finalizacion y el de inicio deben tener un margen de 7 dias
